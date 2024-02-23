@@ -78,3 +78,25 @@ social-media-dashboard/
 
 <h2>License</h2>
 <p>This project is licensed under the MIT License.</p>
+
+<h1>Screenshots and DemoVideos</h1>
+
+https://github.com/ATOMworkplace/Social-Media-Analytics-Dashboard/assets/114564628/1b7f4c4d-6af3-4f7c-9fae-e3dbdd4dfe3e
+
+![image](https://github.com/ATOMworkplace/Social-Media-Analytics-Dashboard/assets/114564628/38bbece7-62bd-47f1-bfa6-c12f01854572)
+
+![image](https://github.com/ATOMworkplace/Social-Media-Analytics-Dashboard/assets/114564628/88627f0d-bd6e-4813-848d-f4bd6be50844)
+
+![image](https://github.com/ATOMworkplace/Social-Media-Analytics-Dashboard/assets/114564628/b0248542-9e90-43e5-be75-94602c623a2f)
+
+![image](https://github.com/ATOMworkplace/Social-Media-Analytics-Dashboard/assets/114564628/5ceff9c1-3cf5-4aa8-81cc-4de2bd9fd74d)
+
+![image](https://github.com/ATOMworkplace/Social-Media-Analytics-Dashboard/assets/114564628/fbdb4e9e-63d8-450c-9efa-218314bf1cc0)
+
+
+
+
+
+
+
+
