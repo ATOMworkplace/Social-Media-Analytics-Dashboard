@@ -4,7 +4,7 @@
 <h2>Features</h2>
 <ul>
   <li>View analytics data for different social media platforms.</li>
-  <li>Display metrics such as likes, views, followers, posts, and shares.</li>
+  <li>Display metrics such as likes, views, followers, posts, and shares through a mock API (static json Data).</li>
   <li>Visualize analytics data using line charts.</li>
   <li>Create and schedule social media posts.</li>
   <li>Simple user authentication system.</li>
