@@ -1,0 +1,278 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Protest+Strike&display=swap');
+html{
+  background-color: #f2f2f2;
+  z-index: auto;
+}
+.head1{
+  text-align: center;
+  width: 50%;
+  color: rgb(89, 89, 89);
+  background-color: #ffffff;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 25px;
+  padding: 1%;
+  border-radius: 50px;
+  font-family: "Protest Strike", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-shadow: rgba(0, 0, 0, 0.25) 12px 12px 16px;
+  box-shadow: 
+    12px 12px 16px 0 rgba(0, 0, 0, 0.25),
+    -8px -8px 12px 0 rgba(255, 255, 255, 0.3);
+  margin-bottom: 50px;
+  background-image: url("https://media2.giphy.com/media/YobfWBhKa81IGeVdVQ/giphy.gif");
+  background-size: contain;
+}
+
+.Socials{
+  margin: 10px;
+  display:flex;
+  flex-wrap: wrap;
+}
+
+.Detail{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content:center;
+  gap: 50px;
+  padding: 2%;
+  text-align: center;
+  padding-top: 30px;
+}
+.Atext{
+  font-size: 1.2rem;
+  font-family: "Courgette", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.Adata{
+  color: #0192c7;
+  text-shadow: rgba(0, 0, 0, 0.25) 12px 12px 16px;
+  margin: 0%;
+  font-size: 3rem;
+  font-family: "Protest Strike", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+.Acards{
+  margin-bottom: 30px;
+  color: #38a8d1;
+  height: 130px;
+  width: 130px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center; 
+  justify-content: center; 
+  border-radius: 50%; 
+  background-color: #ffffff;
+  box-shadow: 
+    12px 12px 16px 0 rgba(0, 0, 0, 0.25),
+    -8px -8px 12px 0 rgba(255, 255, 255, 0.3);
+}
+.Acards:hover{
+  transform: transform 0.3s; 
+}
+.Acards:hover{
+  transform: scale(1.1);
+}
+.Acards p{
+  
+  text-align: center;
+  margin: 0;
+}
+.socialcard{
+  background-color: #ffffff;
+  color: #0192c7;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: none;
+  box-shadow: 
+    12px 12px 16px 0 rgba(0, 0, 0, 0.25),
+    -8px -8px 12px 0 rgba(255, 255, 255, 0.3);
+  border-radius: 20px;
+  padding: 1%;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.socialcard {
+  transition: transform 0.3s; 
+}
+
+.socialcard:hover {
+  transform: scale(1.1); 
+}
+.Isocialcard{
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  box-shadow: rgba(0, 0, 0, 0.25) 12px 12px 16px;
+}
+
+.Cbutton{
+  border-style: none;
+  color: #ffffff;
+  padding: 2%;
+  border-radius: 10px;
+  font-family: "Courgette", cursive;
+  font-weight: 400;
+  font-style: normal;
+  background-color: rgb(7, 181, 245);
+}
+.Cbutton:hover{
+  background-color: rgb(97, 218, 237);
+}
+.Cbutton:active{
+  box-shadow: inset 0 0 5px rgba(0,0,0,0.5);
+}
+.Ctitle{
+  margin: 10px;
+  font-family: "Protest Strike", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  
+}
+
+.Graph{
+  background-color: white;
+  border-radius: 10px;
+  border-style: none;
+  border: 1px solid #ff6485;
+  box-shadow: 
+    12px 12px 16px 0 rgba(0, 0, 0, 0.25),
+    -8px -8px 12px 0 rgba(255, 255, 255, 0.3);
+  margin-left: auto;
+  margin-right:  auto;
+  margin-bottom: 50px;
+  width : 50%;
+  padding: 3%;
+}
+.Graph1{
+  background-color: white;
+  border-radius: 10px;
+  border-style: none;
+  border: 1px solid rgb(97, 218, 237);
+  box-shadow: 
+    12px 12px 16px 0 rgba(0, 0, 0, 0.25),
+    -8px -8px 12px 0 rgba(255, 255, 255, 0.3);
+  margin-left: auto;
+  margin-right:  auto;
+  margin-bottom: 50px;
+  width : 50%;
+  padding: 3%;
+}
+
+.Graph2{
+  background-color: white;
+  border-radius: 10px;
+  border-style: none;
+  border: 1px solid rgb(97, 237, 106);
+  box-shadow: 
+    12px 12px 16px 0 rgba(0, 0, 0, 0.25),
+    -8px -8px 12px 0 rgba(255, 255, 255, 0.3);
+  margin-left: auto;
+  margin-right:  auto;
+  margin-bottom: 50px;
+  width : 50%;
+  padding: 3%;
+}
+.footer{
+  color: #0192c7;
+  text-align: center;
+  font-weight: bold;
+  margin: 10px;
+  padding: 2%;
+  margin-top: 0%;
+  padding-top: 0%;
+}
+.Graph0{
+  display: flex;
+  flex-wrap: wrap;
+}
+.Graph {
+  transition: transform 0.3s; 
+}
+
+.Graph:hover {
+  transform: scale(1.1);  
+}
+.Graph1 {
+  transition: transform 0.3s; 
+}
+
+.Graph1:hover {
+  transform: scale(1.1); 
+}
+.Graph2 {
+  transition: transform 0.3s; 
+}
+
+.Graph2:hover {
+  transform: scale(1.1); 
+}
+.ic{
+  height: 50px;
+}
+.post-form {
+  max-width: 400px; /* Adjust the max-width as needed */
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 
+    12px 12px 16px 0 rgba(0, 0, 0, 0.25),
+    -8px -8px 12px 0 rgba(255, 255, 255, 0.3);
+}
+
+.post-form h2 {
+  margin-bottom: 20px;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.FormD {
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.FormD form {
+  display: flex;
+  flex-direction: column;
+}
+.PlatformOp,
+.FormD input,
+.FormD textarea,
+.FormD button {
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.Ph{
+  color: #0192c7;
+  font-size: 2rem;
+  text-shadow: rgba(0, 0, 0, 0.35) 12px 12px 16px ;
+}
+.FormD button {
+  background-color: #0192c7;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 
+    12px 12px 16px 0 rgba(0, 0, 0, 0.25),
+    -8px -8px 12px 0 rgba(255, 255, 255, 0.3);
+}
+
+.FormD button:hover {
+  background-color: #0192c7;
+}
