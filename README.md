@@ -1,6 +1,6 @@
 <h1>Social Media Analytics Dashboard</h1>
 <p>This project is a Social Media Analytics Dashboard developed using React.js. It is a frontend project that provides users with insights into their social media performance across platforms such as Twitter, YouTube, Instagram, and Facebook.</p>
-
+<a href="https://social-media-analytics-dashboard-6u8a2p8d3.vercel.app/">Website</a>
 <h2>Features</h2>
 <ul>
   <li>View analytics data for different social media platforms.</li>
@@ -55,7 +55,6 @@ social-media-dashboard/
 
 <p>Check out the screenshots and demo videos to see the dashboard in action:</p>
 
-![image](https://github.com/ATOMworkplace/Social-Media-Analytics-Dashboard/assets/114564628/1b7f4c4d-6af3-4f7c-9fae-e3dbdd4dfe3e)
 ![image](https://github.com/ATOMworkplace/Social-Media-Analytics-Dashboard/assets/114564628/38bbece7-62bd-47f1-bfa6-c12f01854572)
 ![image](https://github.com/ATOMworkplace/Social-Media-Analytics-Dashboard/assets/114564628/88627f0d-bd6e-4813-848d-f4bd6be50844)
 ![image](https://github.com/ATOMworkplace/Social-Media-Analytics-Dashboard/assets/114564628/b0248542-9e90-43e5-be75-94602c623a2f)
